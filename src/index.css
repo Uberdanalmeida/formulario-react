@@ -29,6 +29,7 @@ h1 {
 input {
     border: none;
     border-radius: 10px;
+    outline: none;
     height: 10px;
     width: 70%;
     padding: 10px;
