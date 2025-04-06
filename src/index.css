@@ -35,6 +35,10 @@ input {
     padding: 10px;
 }
 
+.recuperar {
+    margin-top: 100px;
+}
+
 .button {
     display: flex;
     height:40px;
