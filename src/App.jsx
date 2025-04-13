@@ -1,12 +1,12 @@
 import './App.css'
-import Louro from './Components/Louro'
+import Formul from './Components/Formul'
 
 function App() {
  
   return (
     <>
       <div>
-       <Louro />
+       <Formul />
       </div>
     </>
   )

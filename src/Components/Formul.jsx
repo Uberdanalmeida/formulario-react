@@ -1,4 +1,4 @@
-function Louro() {
+function Formul() {
     return(
         <div className="oee">
             <form action="">
@@ -13,4 +13,4 @@ function Louro() {
     )
 }
 
-export default Louro
+export default Formul
