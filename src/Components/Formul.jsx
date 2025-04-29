@@ -1,6 +1,6 @@
 function Formul() {
     return(
-        <div className="oee">
+        <div className="formu">
             <form action="">
                 <h1>Preencha o formulario</h1>
                 <p>Nome: <input type="text" name="" id="" /></p>
