@@ -12,7 +12,7 @@ body {
     text-align: center;
 }
 
-.oee {
+.formu {
     height: 422px;
     width: 400px;
     background-color: powderblue;
@@ -65,9 +65,12 @@ a {
     }
 
     .formu {
+        display: flex;
         background-color: rgba(0, 255, 255, 0.658);
-        height: 95vh;
-        width: 97vw;
+        height: 100vh;
+        width: 100vw;
+        align-items: center;
+        justify-content: center;
     }
 
     a {
@@ -76,6 +79,19 @@ a {
 
     .recuperar, a {
         font-size: 20px;
+    }
+
+    p {
+        font-size: 20px;
+        font-weight: 700;
+    }
+
+    h1 {
+        padding-bottom: 50px;
+    }
+
+    .button:hover {
+        background-color: rgba(0, 0, 0, 0.8);
     }
 }
 
