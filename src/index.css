@@ -65,7 +65,7 @@ a {
 
     .formu {
         display: flex;
-         background-image: url(imagem/imagem-fundo.jpg);
+        background-image: url(imagem/imagem-fundo.jpg);
         background-repeat: no-repeat;
         background-size: cover;
         height: 90vh;
