@@ -61,14 +61,17 @@ a {
         display: flex;
         height: 100vh;
         width: 100vw;
+        background-image: url(imagem/imagem-fundo.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
         justify-content: center;
     }
 
     .formu {
         display: flex;
-        background-image: url(imagem/imagem-fundo.jpg);
-        background-repeat: no-repeat;
-        background-size: cover;
+        background-color: rgba(255, 255, 255, 0.5);
+        border: 1px solid black;
+        border-radius: 10px;
         height: 90vh;
         width: 90vw;
         align-items: center;
@@ -76,7 +79,7 @@ a {
     }
 
     a {
-        color: white;
+        color: blue;
     }
 
     .recuperar, a {
