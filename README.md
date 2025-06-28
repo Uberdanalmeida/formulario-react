@@ -1,4 +1,4 @@
-![Formulario simples](src/imagem/formulario.png)
+![Formulario simples](src/imagem/formulario-react.png)
 
 ## Descrição
 
